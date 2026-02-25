@@ -1,4 +1,4 @@
-# baifs
+# baifs - build ai from scratch
 
 baifs is a minimal deep learning framework built from scratch in pure Python. It implements a scalar-level automatic differentiation engine and uses it to build and train neural networks without any external deep learning libraries.
 
